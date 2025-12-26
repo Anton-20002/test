@@ -1,0 +1,7 @@
+{
+  "name": "SecureAuth AI Dashboard",
+  "description": "A high-performance React application featuring a modern authentication flow, Shadcn-inspired UI components, and Gemini-powered personalized insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
